@@ -12,7 +12,7 @@
   # Installation
   
   # Usage
-  Run mysql -u root -p at the root of the project.
+
   # License
   
   # Contributors
